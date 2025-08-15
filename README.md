@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hCsO6hlK6de/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZ6aDJuc2V1ZjhuMHk2M3dmbzAza3FnMWRrYjRhaDR2d3hlZ2llayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" width="100"/>
   <h1>
     Olá, eu sou o Irlan Wallace!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -8,7 +8,7 @@
   <p>Construindo pontes entre problemas de negócio e soluções de IA, com uma base sólida em gestão, tecnologia e metodologias ágeis.</p>
   
   <div>
-    <a href="https://www.linkedin.com/in/irlanwallace/" target="_blank">
+    <a href="www.linkedin.com/in/wallacemattos-dados/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:wallacemattos5963@gmail.com">
