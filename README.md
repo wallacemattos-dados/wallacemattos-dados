@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZ6aDJuc2V1ZjhuMHk2M3dmbzAza3FnMWRrYjRhaDR2d3hlZ2llayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ1em0wY2hsdjFiMmE1bWdxMDViY281c2I0OWRidzQyYnoybTFjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/be8ktX65xLhlpHTpIE/giphy.gif" width="150"/>
   <h1>
     Olá, eu sou o Irlan Wallace!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
